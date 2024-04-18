@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @RyanGBC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Claro, aqui está o seu perfil básico em português e inglês:
+
+👋 Olá, sou @RyanGBC
+👀 Tenho interesse em programação
+🌱 Atualmente estou aprendendo python e php
+💞️ Procuro colaborar em muito projetos
+📫 Como me contatar contate - me em ryangabrj@gmail.com
+😄 Pronomes: nenhum
+⚡ Curiosidade divertida: Amo futebol
+
+👋 Hi, I'm @RyanGBC
+👀 I'm interested in programming
+🌱 I'm currently learning Python and PHP
+💞️ I'm looking to collaborate on many projects
+📫 How to reach me: contact me at ryangabrj@gmail.com
+😄 Pronouns: none
+⚡ Fun fact: I love soccer
 
 <!---
 RyanGBC/RyanGBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
