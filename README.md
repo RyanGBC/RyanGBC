@@ -1,5 +1,3 @@
-Claro, aqui está o seu perfil básico em português e inglês:
-
 👋 Olá, sou @RyanGBC
 👀 Tenho interesse em programação
 🌱 Atualmente estou aprendendo python e php
