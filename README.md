@@ -5,9 +5,7 @@ Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 🇧🇷 Desenvolvedor back-end com foco em PHP e Python.  
 🇺🇸 Back-end developer focused on PHP and Python.
 
-## 📊 GitHub Stats
-
-## Estatísticas do GitHub de RyanGBC
+## 📊 Estatísticas do GitHub de RyanGBC
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
 </br>
 ## Linguagens mais usadas
