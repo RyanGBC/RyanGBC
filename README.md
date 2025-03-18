@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub de RyanGBC](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
-</br>
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
+!["Estatísticas do GitHub de RyanGBC"](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
+</br> </br>
+!["Linguagens mais usadas"](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
 
 ## 🚀 Tecnologias que mais uso | Technologies I use most
 
