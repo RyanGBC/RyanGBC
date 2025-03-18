@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub de RyanGBC
 ![Estatísticas do GitHub de RyanGBC](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
 </br> </br>
 ## Linguagens mais usadas
