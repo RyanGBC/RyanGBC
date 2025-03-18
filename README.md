@@ -54,7 +54,7 @@ Estou sempre buscando me aprimorar e expandir meus conhecimentos na área de tec
 ## 📫 Contato | Contact
 
 [![Email](https://img.shields.io/badge/Email-ryangabrj%40gmail.com-red?style=flat-square&logo=gmail&logoColor=red)](mailto:ryangabrj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ryangabrj-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryangabrielcosta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ryangabrj-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://linkedin.com/in/ryangabrielcosta)
 
 ## ⚡ Curiosidades | Fun facts
 
