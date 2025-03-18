@@ -1,6 +1,6 @@
-# Ryan Gabriel
+Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 
-## 👋 Sobre mim | About me
+<<<Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no 5º semestre, com duração total de 5 semestres e previsão de formação para junho de 2025.>>>
 
 🇧🇷 Desenvolvedor back-end com foco em PHP e Python.  
 🇺🇸 Back-end developer focused on PHP and Python.
