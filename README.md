@@ -38,6 +38,19 @@ Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 - Frameworks PHP (Laravel/Symfony)
 - Desenvolvimento back-end avançado
 
+- 📌 Sobre
+  Iniciei minha carreira na área da tecnologia em janeiro de 2023, atualmente estou cursando o **5º (quinto) Semestre em Análise e Desenvolvimento de Sistemas** pela UniPiaget (são 5 semestres no total), com previsão de formação para junho de 2025.
+
+Sou apaixonado por **desenvolvimento back-end**, com foco especial em **PHP e Python**. Tenho experiência como **Desenvolvedor Web** e já trabalhei em diversos projetos, incluindo o desenvolvimento de um sistema de cadastro personalizado para uma farmácia utilizando **Python** para back-end com **MySQL** para o banco de dados.
+
+Em junho de 2024, atuei como **Freelancer de UX/UI**, criando e aprimorando interfaces de usuário com **Figma**, garantindo boa usabilidade e acessibilidade para os usuários. Também desenvolvi um site responsivo para a empresa Limp Lar, utilizando **HTML e CSS**.
+
+Possuo certificações em **HTML5 & CSS, JavaScript, PHP básico, Python 3, Git e GitHub, MySQL e IA** pelo Curso em Vídeo, o que complementa minha formação acadêmica e me permite atuar em diversos projetos de tecnologia.
+
+Em relação aos idiomas, sou fluente em **Português (nativo)**, possuo nível **intermediário de Inglês** e conhecimentos **básicos de Espanhol**.
+
+Estou sempre buscando me aprimorar e expandir meus conhecimentos na área de tecnologia. Meu objetivo é aplicar meus conhecimentos teóricos em ambientes práticos e contribuir para o sucesso de empresas inovadoras, com foco especial no desenvolvimento back-end e gestão de dados.
+
 ## 📫 Contato | Contact
 
 - Email: ryangabrj@gmail.com
