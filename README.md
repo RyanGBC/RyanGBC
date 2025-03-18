@@ -8,7 +8,7 @@ Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 ## 📊 GitHub Stats
 
 ## Estatísticas do GitHub de RyanGBC
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&bg_color=000000&title_color=0000cc&text_color=ffffff&icon_color=58a6ff)
 </br>
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
