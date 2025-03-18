@@ -9,9 +9,7 @@
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de RyanGBC](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
-
-</br> 
-
+</br> </br>
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
 
