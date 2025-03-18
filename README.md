@@ -7,8 +7,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
 
 ## 💻 Linguagens mais usadas | Most used languages
 
