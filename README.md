@@ -1,20 +1,57 @@
-👋 Olá, sou @RyanGBC
-👀 Tenho interesse em programação
-🌱 Atualmente estou aprendendo React-native
-💞️ Procuro colaborar em muito projetos
-📫 Como me contatar contate - me em ryangabrj@gmail.com
-😄 Pronomes: nenhum
-⚡ Curiosidade divertida: Amo futebol
+# Ryan Gabriel
 
-👋 Hi, I'm @RyanGBC
-👀 I'm interested in programming
-🌱 I'm currently learning React-native
-💞️ I'm looking to collaborate on many projects
-📫 How to reach me: contact me at ryangabrj@gmail.com
-😄 Pronouns: none
-⚡ Fun fact: I love soccer
+## 👋 Sobre mim | About me
 
-<!---
-RyanGBC/RyanGBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇧🇷 Desenvolvedor back-end com foco em PHP e Python.  
+🇺🇸 Back-end developer focused on PHP and Python.
+
+## 📊 GitHub Stats
+
+![Total de Commits (2025)](https://img.shields.io/badge/Commits%20(2025)-104-brightgreen)
+![Total de PRs](https://img.shields.io/badge/Pull%20Requests-1-blue)
+
+## 💻 Linguagens mais usadas | Most used languages
+
+- Python (86.89%)
+- JavaScript (2.10%)
+- HTML (8.08%)
+- CSS (1.20%)
+- TypeScript (1.14%)
+- TeX (0.59%)
+
+## 🚀 Tecnologias que mais uso | Technologies I use most
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+## 📚 Outras tecnologias | Other technologies
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/-Google%20Search%20Console-458CF5?style=flat&logo=googlesearchconsole&logoColor=white)
+
+## 🌱 Atualmente aprendendo | Currently learning
+
+- Frameworks PHP (Laravel/Symfony)
+- Desenvolvimento back-end avançado
+
+## 📫 Contato | Contact
+
+- Email: ryangabrj@gmail.com
+
+## ⚡ Curiosidades | Fun facts
+
+- Amo futebol | I love soccer
