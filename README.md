@@ -31,7 +31,7 @@
 ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=css3&logoColor=white)
 
 ## 🌱 Atualmente aprendendo | Currently learning
 
