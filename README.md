@@ -7,8 +7,8 @@
 
 ## 📊 GitHub Stats
 
-![Total de Commits (2025)](https://img.shields.io/badge/Commits%20(2025)-104-brightgreen)
-![Total de PRs](https://img.shields.io/badge/Pull%20Requests-1-blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact)
 
 ## 💻 Linguagens mais usadas | Most used languages
 
