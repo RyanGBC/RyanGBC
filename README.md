@@ -7,9 +7,13 @@
 
 ## 📊 GitHub Stats
 
-!["Estatísticas do GitHub de RyanGBC"](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
+## Estatísticas do GitHub
+![Estatísticas do GitHub de RyanGBC](https://github-readme-stats.vercel.app/api?username=RyanGBC&show_icons=true&theme=radical)
+
 </br> </br>
-!["Linguagens mais usadas"](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
+
+## Linguagens mais usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
 
 ## 🚀 Tecnologias que mais uso | Technologies I use most
 
@@ -29,6 +33,7 @@
 ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🌱 Atualmente aprendendo | Currently learning
 
