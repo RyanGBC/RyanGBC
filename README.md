@@ -11,7 +11,7 @@ Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 ## Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGBC&layout=compact&theme=radical)
 
-## 🚀 Tecnologias que mais uso | Technologies I use most
+## 🚀 Tecnologias que mais uso
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -20,7 +20,7 @@ Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## 📚 Outras tecnologias | Other technologies
+## 📚 Outras tecnologia
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@ Olá, meu nome é Ryan Gabriel, mas você pode me chamar de Ryan! 👋
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=blue)
 
-## 🌱 Atualmente aprendendo | Currently learning
+## 🌱 Atualmente aprendendo
 
 - Frameworks PHP (Laravel/Symfony)
 - Desenvolvimento back-end avançado
@@ -49,11 +49,11 @@ Em relação aos idiomas, sou fluente em **Português (nativo)**, possuo nível 
 
 Estou sempre buscando me aprimorar e expandir meus conhecimentos na área de tecnologia. Meu objetivo é aplicar meus conhecimentos teóricos em ambientes práticos e contribuir para o sucesso de empresas inovadoras, com foco especial no desenvolvimento back-end e gestão de dados.
 
-## 📫 Contato | Contact
+## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-ryangabrj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=EA4335)](mailto:ryangabrj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@ryangabrj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryangabrielcosta)
 
-## ⚡ Curiosidades | Fun facts
+## ⚡ Curiosidades
 
-- Amo futebol | I love soccer
+- Amo futebol
